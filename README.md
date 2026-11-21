@@ -1,2 +1,2 @@
-# student-management-system-1
-a simple student management project
+student management system
+this project is developed to manage student information and academic records
